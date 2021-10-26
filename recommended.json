@@ -1,4 +1,4 @@
-{
+
  {'liteRp': [{'ip': '185.169.134.3:7777', 'name': 'Arizona RP Phoenix'},
             {'ip': '185.169.134.4:7777', 'name': 'Arizona RP Tucson'},
             {'ip': '185.169.134.43:7777', 'name': 'Arizona RP Scottdale'},
@@ -42,4 +42,4 @@
          {'ip': '176.32.39.200:7777', 'name': 'GalaxY RPG I'},
          {'ip': '176.32.39.199:7777', 'name': 'GalaxY RPG II'},
          {'ip': '176.32.39.198:7777', 'name': 'GalaxY RPG III'}]}
-}
+
